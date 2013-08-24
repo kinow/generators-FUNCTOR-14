@@ -33,7 +33,7 @@ import org.junit.Test;
 
 /**
  * Tests the Filtered Generator class.
- * @version $Revision: 1376354 $ $Date: 2012-08-23 00:04:55 -0300 (Thu, 23 Aug 2012) $
+ * @version $Revision: 1515264 $ $Date: 2013-08-18 23:51:41 -0300 (Sun, 18 Aug 2013) $
  */
 public class TestFilteredGenerator
 {
